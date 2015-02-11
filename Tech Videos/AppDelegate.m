@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  Tech Videos
+//  PersianVideo
 //
-//  Created by Edward Rezaimehr on 2/9/15.
+//  Created by Edward Rezaimehr on 1/12/15.
 //  Copyright (c) 2015 Edward Rezaimehr. All rights reserved.
 //
 
@@ -17,6 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent];
     return YES;
 }
 
