@@ -12,7 +12,7 @@
 #import <SDWebImage/UIImageView+WebCache.h>
 #import "ViewController.h"
 
-#define kMenuItemsUrl @"http://www.aidin4app.com/api/cp/0/menu/0"
+#define kMenuItemsUrl @"http://www.aidin4app.com/api/cp/0/menuios/0"
 
 @interface SidebarTableViewController ()
 
